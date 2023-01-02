@@ -1,0 +1,85 @@
+.vanocniprani {
+    text-align: center;
+    color: #009900;
+    font: 1.2em sans-serif;
+    background-image: url(pozadi3.jpg);
+}
+
+.pesvanoce { 
+    margin-top:35px;
+    padding: 20px;
+
+}
+
+  @keyframes barvakoule1 {
+    20% {fill:rgb(241, 241, 142);}
+    50% {fill: gold;}
+    100% {fill: goldenrod;}
+  }
+
+  #koule1 {
+    animation: barvakoule1 6s infinite both linear;
+  }
+
+  @keyframes barvakoule2 {
+    20% {fill:rgb(239, 202, 202);}
+    50% {fill: rgb(235, 131, 61);}
+    100% {fill: rgb(212, 25, 25);}
+  }
+
+  #koule2 {
+    animation: barvakoule2 5s infinite both linear;
+  }
+
+  @keyframes barvakoule3 {
+    20% {fill:rgb(173, 186, 234);}
+    50% {fill: rgb(81, 117, 224);}
+    100% {fill: rgb(27, 49, 219);}
+  }
+
+  #koule3 {
+    animation: barvakoule3 6s infinite both linear;
+  }
+
+  @keyframes barvakoule4 {
+    20% {fill:rgb(184, 233, 204);}
+    50% {fill: rgb(82, 191, 98);}
+    100% {fill: rgb(15, 131, 63);}
+  }
+
+  #koule4 {
+    animation: barvakoule4 7s infinite both linear;
+  }
+
+  @keyframes barvakoule5 {
+    20% {fill:rgb(184, 233, 204);}
+    50% {fill: rgb(82, 191, 98);}
+    100% {fill: rgb(15, 131, 63);}
+  }
+
+  #koule5 {
+    animation: barvakoule4 7s infinite both linear;
+  }
+
+  #koule6 {
+    animation: barvakoule1 6s infinite both linear;
+  }
+
+  @keyframes barvakoule6 {
+    20% {fill:rgb(239, 202, 202);}
+    50% {fill: rgb(235, 131, 61);}
+    100% {fill: rgb(212, 25, 25);}
+  }
+
+  @keyframes barvakoule7 {
+    20% {fill:rgb(173, 186, 234);}
+    50% {fill: rgb(81, 117, 224);}
+    100% {fill: rgb(27, 49, 219);}
+  }
+
+  #koule7 {
+    animation: barvakoule3 6s infinite both linear;
+  }
+
+
+ 
